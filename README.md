@@ -1,4 +1,4 @@
-# MMA
+# MMA : My Metro Assistant
 Hacktoberfest submission for AR assistant in MyMetro By T-mobile.
 Project too large to be submitted to github. 
 Can be found in the link provided.
